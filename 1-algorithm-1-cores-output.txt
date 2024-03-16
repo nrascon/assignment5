@@ -1,0 +1,450 @@
+Global frequency set at 1000000000000 ticks per second
+gem5 Simulator System.  https://www.gem5.org
+gem5 is copyrighted software; use the --copyright option for details.
+
+gem5 version 23.1.0.0
+gem5 compiled Jan  6 2024 23:00:07
+gem5 started Mar 16 2024 20:54:38
+gem5 executing on codespaces-e36d0d, pid 747
+command line: gem5 --outdir=1-algorithm-1-cores-output run.py --cores=1 --algorithm=1
+
+Initializing array and reseting result.
+Done initializing.
+Using a naive approach to sum up the array.
+Beginning summation ...
+Finished simulation.
+Global frequency set at 1000000000000 ticks per second
+gem5 Simulator System.  https://www.gem5.org
+gem5 is copyrighted software; use the --copyright option for details.
+
+gem5 version 23.1.0.0
+gem5 compiled Jan  6 2024 23:00:07
+gem5 started Mar 16 2024 20:54:56
+gem5 executing on codespaces-e36d0d, pid 903
+command line: gem5 --outdir=2-algorithm-1-cores-output run.py --cores=1 --algorithm=2
+
+Initializing array and reseting result.
+Done initializing.
+Chunking the array for summation.
+Beginning summation ...
+Finished simulation.
+Global frequency set at 1000000000000 ticks per second
+gem5 Simulator System.  https://www.gem5.org
+gem5 is copyrighted software; use the --copyright option for details.
+
+gem5 version 23.1.0.0
+gem5 compiled Jan  6 2024 23:00:07
+gem5 started Mar 16 2024 20:55:17
+gem5 executing on codespaces-e36d0d, pid 1075
+command line: gem5 --outdir=3-algorithm-1-cores-output run.py --cores=1 --algorithm=3
+
+Initializing array and reseting result.
+Done initializing.
+Removing race condition on result.
+Beginning summation ...
+Finished simulation.
+Global frequency set at 1000000000000 ticks per second
+gem5 Simulator System.  https://www.gem5.org
+gem5 is copyrighted software; use the --copyright option for details.
+
+gem5 version 23.1.0.0
+gem5 compiled Jan  6 2024 23:00:07
+gem5 started Mar 16 2024 20:55:36
+gem5 executing on codespaces-e36d0d, pid 1241
+command line: gem5 --outdir=4-algorithm-1-cores-output run.py --cores=1 --algorithm=4
+
+Initializing array and reseting result.
+Done initializing.
+Removing race condition on result and using chunking.
+Beginning summation ...
+Finished simulation.
+Global frequency set at 1000000000000 ticks per second
+gem5 Simulator System.  https://www.gem5.org
+gem5 is copyrighted software; use the --copyright option for details.
+
+gem5 version 23.1.0.0
+gem5 compiled Jan  6 2024 23:00:07
+gem5 started Mar 16 2024 20:55:56
+gem5 executing on codespaces-e36d0d, pid 1383
+command line: gem5 --outdir=5-algorithm-1-cores-output run.py --cores=1 --algorithm=5
+
+Initializing array and reseting result.
+Done initializing.
+Removing race condition on cache blocks holding result array.
+Beginning summation ...
+Finished simulation.
+Global frequency set at 1000000000000 ticks per second
+gem5 Simulator System.  https://www.gem5.org
+gem5 is copyrighted software; use the --copyright option for details.
+
+gem5 version 23.1.0.0
+gem5 compiled Jan  6 2024 23:00:07
+gem5 started Mar 16 2024 20:56:14
+gem5 executing on codespaces-e36d0d, pid 1554
+command line: gem5 --outdir=6-algorithm-1-cores-output run.py --cores=1 --algorithm=6
+
+Initializing array and reseting result.
+Done initializing.
+Removing race condition on cache blocks and using chunking to sum up the array.
+Beginning summation ...
+Finished simulation.
+Global frequency set at 1000000000000 ticks per second
+gem5 Simulator System.  https://www.gem5.org
+gem5 is copyrighted software; use the --copyright option for details.
+
+gem5 version 23.1.0.0
+gem5 compiled Jan  6 2024 23:00:07
+gem5 started Mar 16 2024 20:56:33
+gem5 executing on codespaces-e36d0d, pid 1701
+command line: gem5 --outdir=1-algorithm-2-cores-output run.py --cores=2 --algorithm=1
+
+Initializing array and reseting result.
+Done initializing.
+Using a naive approach to sum up the array.
+Beginning summation ...
+Finished simulation.
+Global frequency set at 1000000000000 ticks per second
+gem5 Simulator System.  https://www.gem5.org
+gem5 is copyrighted software; use the --copyright option for details.
+
+gem5 version 23.1.0.0
+gem5 compiled Jan  6 2024 23:00:07
+gem5 started Mar 16 2024 20:56:56
+gem5 executing on codespaces-e36d0d, pid 1894
+command line: gem5 --outdir=2-algorithm-2-cores-output run.py --cores=2 --algorithm=2
+
+Initializing array and reseting result.
+Done initializing.
+Chunking the array for summation.
+Beginning summation ...
+Finished simulation.
+Global frequency set at 1000000000000 ticks per second
+gem5 Simulator System.  https://www.gem5.org
+gem5 is copyrighted software; use the --copyright option for details.
+
+gem5 version 23.1.0.0
+gem5 compiled Jan  6 2024 23:00:07
+gem5 started Mar 16 2024 20:57:20
+gem5 executing on codespaces-e36d0d, pid 2098
+command line: gem5 --outdir=3-algorithm-2-cores-output run.py --cores=2 --algorithm=3
+
+Initializing array and reseting result.
+Done initializing.
+Removing race condition on result.
+Beginning summation ...
+Finished simulation.
+Global frequency set at 1000000000000 ticks per second
+gem5 Simulator System.  https://www.gem5.org
+gem5 is copyrighted software; use the --copyright option for details.
+
+gem5 version 23.1.0.0
+gem5 compiled Jan  6 2024 23:00:07
+gem5 started Mar 16 2024 20:57:42
+gem5 executing on codespaces-e36d0d, pid 2272
+command line: gem5 --outdir=4-algorithm-2-cores-output run.py --cores=2 --algorithm=4
+
+Initializing array and reseting result.
+Done initializing.
+Removing race condition on result and using chunking.
+Beginning summation ...
+Finished simulation.
+Global frequency set at 1000000000000 ticks per second
+gem5 Simulator System.  https://www.gem5.org
+gem5 is copyrighted software; use the --copyright option for details.
+
+gem5 version 23.1.0.0
+gem5 compiled Jan  6 2024 23:00:07
+gem5 started Mar 16 2024 20:58:06
+gem5 executing on codespaces-e36d0d, pid 2464
+command line: gem5 --outdir=5-algorithm-2-cores-output run.py --cores=2 --algorithm=5
+
+Initializing array and reseting result.
+Done initializing.
+Removing race condition on cache blocks holding result array.
+Beginning summation ...
+Finished simulation.
+Global frequency set at 1000000000000 ticks per second
+gem5 Simulator System.  https://www.gem5.org
+gem5 is copyrighted software; use the --copyright option for details.
+
+gem5 version 23.1.0.0
+gem5 compiled Jan  6 2024 23:00:07
+gem5 started Mar 16 2024 20:58:26
+gem5 executing on codespaces-e36d0d, pid 2631
+command line: gem5 --outdir=6-algorithm-2-cores-output run.py --cores=2 --algorithm=6
+
+Initializing array and reseting result.
+Done initializing.
+Removing race condition on cache blocks and using chunking to sum up the array.
+Beginning summation ...
+Finished simulation.
+Global frequency set at 1000000000000 ticks per second
+gem5 Simulator System.  https://www.gem5.org
+gem5 is copyrighted software; use the --copyright option for details.
+
+gem5 version 23.1.0.0
+gem5 compiled Jan  6 2024 23:00:07
+gem5 started Mar 16 2024 20:58:48
+gem5 executing on codespaces-e36d0d, pid 2812
+command line: gem5 --outdir=1-algorithm-4-cores-output run.py --cores=4 --algorithm=1
+
+Initializing array and reseting result.
+Done initializing.
+Using a naive approach to sum up the array.
+Beginning summation ...
+Finished simulation.
+Global frequency set at 1000000000000 ticks per second
+gem5 Simulator System.  https://www.gem5.org
+gem5 is copyrighted software; use the --copyright option for details.
+
+gem5 version 23.1.0.0
+gem5 compiled Jan  6 2024 23:00:07
+gem5 started Mar 16 2024 20:59:15
+gem5 executing on codespaces-e36d0d, pid 3021
+command line: gem5 --outdir=2-algorithm-4-cores-output run.py --cores=4 --algorithm=2
+
+Initializing array and reseting result.
+Done initializing.
+Chunking the array for summation.
+Beginning summation ...
+Finished simulation.
+Global frequency set at 1000000000000 ticks per second
+gem5 Simulator System.  https://www.gem5.org
+gem5 is copyrighted software; use the --copyright option for details.
+
+gem5 version 23.1.0.0
+gem5 compiled Jan  6 2024 23:00:07
+gem5 started Mar 16 2024 20:59:41
+gem5 executing on codespaces-e36d0d, pid 3234
+command line: gem5 --outdir=3-algorithm-4-cores-output run.py --cores=4 --algorithm=3
+
+Initializing array and reseting result.
+Done initializing.
+Removing race condition on result.
+Beginning summation ...
+Finished simulation.
+Global frequency set at 1000000000000 ticks per second
+gem5 Simulator System.  https://www.gem5.org
+gem5 is copyrighted software; use the --copyright option for details.
+
+gem5 version 23.1.0.0
+gem5 compiled Jan  6 2024 23:00:07
+gem5 started Mar 16 2024 21:00:08
+gem5 executing on codespaces-e36d0d, pid 3447
+command line: gem5 --outdir=4-algorithm-4-cores-output run.py --cores=4 --algorithm=4
+
+Initializing array and reseting result.
+Done initializing.
+Removing race condition on result and using chunking.
+Beginning summation ...
+Finished simulation.
+Global frequency set at 1000000000000 ticks per second
+gem5 Simulator System.  https://www.gem5.org
+gem5 is copyrighted software; use the --copyright option for details.
+
+gem5 version 23.1.0.0
+gem5 compiled Jan  6 2024 23:00:07
+gem5 started Mar 16 2024 21:00:35
+gem5 executing on codespaces-e36d0d, pid 3658
+command line: gem5 --outdir=5-algorithm-4-cores-output run.py --cores=4 --algorithm=5
+
+Initializing array and reseting result.
+Done initializing.
+Removing race condition on cache blocks holding result array.
+Beginning summation ...
+Finished simulation.
+Global frequency set at 1000000000000 ticks per second
+gem5 Simulator System.  https://www.gem5.org
+gem5 is copyrighted software; use the --copyright option for details.
+
+gem5 version 23.1.0.0
+gem5 compiled Jan  6 2024 23:00:07
+gem5 started Mar 16 2024 21:00:59
+gem5 executing on codespaces-e36d0d, pid 3865
+command line: gem5 --outdir=6-algorithm-4-cores-output run.py --cores=4 --algorithm=6
+
+Initializing array and reseting result.
+Done initializing.
+Removing race condition on cache blocks and using chunking to sum up the array.
+Beginning summation ...
+Finished simulation.
+Global frequency set at 1000000000000 ticks per second
+gem5 Simulator System.  https://www.gem5.org
+gem5 is copyrighted software; use the --copyright option for details.
+
+gem5 version 23.1.0.0
+gem5 compiled Jan  6 2024 23:00:07
+gem5 started Mar 16 2024 21:01:27
+gem5 executing on codespaces-e36d0d, pid 4093
+command line: gem5 --outdir=1-algorithm-8-cores-output run.py --cores=8 --algorithm=1
+
+Initializing array and reseting result.
+Done initializing.
+Using a naive approach to sum up the array.
+Beginning summation ...
+Finished simulation.
+Global frequency set at 1000000000000 ticks per second
+gem5 Simulator System.  https://www.gem5.org
+gem5 is copyrighted software; use the --copyright option for details.
+
+gem5 version 23.1.0.0
+gem5 compiled Jan  6 2024 23:00:07
+gem5 started Mar 16 2024 21:02:07
+gem5 executing on codespaces-e36d0d, pid 4426
+command line: gem5 --outdir=2-algorithm-8-cores-output run.py --cores=8 --algorithm=2
+
+Initializing array and reseting result.
+Done initializing.
+Chunking the array for summation.
+Beginning summation ...
+Finished simulation.
+Global frequency set at 1000000000000 ticks per second
+gem5 Simulator System.  https://www.gem5.org
+gem5 is copyrighted software; use the --copyright option for details.
+
+gem5 version 23.1.0.0
+gem5 compiled Jan  6 2024 23:00:07
+gem5 started Mar 16 2024 21:02:42
+gem5 executing on codespaces-e36d0d, pid 4714
+command line: gem5 --outdir=3-algorithm-8-cores-output run.py --cores=8 --algorithm=3
+
+Initializing array and reseting result.
+Done initializing.
+Removing race condition on result.
+Beginning summation ...
+Finished simulation.
+Global frequency set at 1000000000000 ticks per second
+gem5 Simulator System.  https://www.gem5.org
+gem5 is copyrighted software; use the --copyright option for details.
+
+gem5 version 23.1.0.0
+gem5 compiled Jan  6 2024 23:00:07
+gem5 started Mar 16 2024 21:03:15
+gem5 executing on codespaces-e36d0d, pid 4979
+command line: gem5 --outdir=4-algorithm-8-cores-output run.py --cores=8 --algorithm=4
+
+Initializing array and reseting result.
+Done initializing.
+Removing race condition on result and using chunking.
+Beginning summation ...
+Finished simulation.
+Global frequency set at 1000000000000 ticks per second
+gem5 Simulator System.  https://www.gem5.org
+gem5 is copyrighted software; use the --copyright option for details.
+
+gem5 version 23.1.0.0
+gem5 compiled Jan  6 2024 23:00:07
+gem5 started Mar 16 2024 21:03:48
+gem5 executing on codespaces-e36d0d, pid 5247
+command line: gem5 --outdir=5-algorithm-8-cores-output run.py --cores=8 --algorithm=5
+
+Initializing array and reseting result.
+Done initializing.
+Removing race condition on cache blocks holding result array.
+Beginning summation ...
+Finished simulation.
+Global frequency set at 1000000000000 ticks per second
+gem5 Simulator System.  https://www.gem5.org
+gem5 is copyrighted software; use the --copyright option for details.
+
+gem5 version 23.1.0.0
+gem5 compiled Jan  6 2024 23:00:07
+gem5 started Mar 16 2024 21:04:18
+gem5 executing on codespaces-e36d0d, pid 5514
+command line: gem5 --outdir=6-algorithm-8-cores-output run.py --cores=8 --algorithm=6
+
+Initializing array and reseting result.
+Done initializing.
+Removing race condition on cache blocks and using chunking to sum up the array.
+Beginning summation ...
+Finished simulation.
+Global frequency set at 1000000000000 ticks per second
+gem5 Simulator System.  https://www.gem5.org
+gem5 is copyrighted software; use the --copyright option for details.
+
+gem5 version 23.1.0.0
+gem5 compiled Jan  6 2024 23:00:07
+gem5 started Mar 16 2024 21:04:49
+gem5 executing on codespaces-e36d0d, pid 5771
+command line: gem5 --outdir=1-algorithm-16-cores-output run.py --cores=16 --algorithm=1
+
+Initializing array and reseting result.
+Done initializing.
+Using a naive approach to sum up the array.
+Beginning summation ...
+Finished simulation.
+Global frequency set at 1000000000000 ticks per second
+gem5 Simulator System.  https://www.gem5.org
+gem5 is copyrighted software; use the --copyright option for details.
+
+gem5 version 23.1.0.0
+gem5 compiled Jan  6 2024 23:00:07
+gem5 started Mar 16 2024 21:05:44
+gem5 executing on codespaces-e36d0d, pid 6221
+command line: gem5 --outdir=2-algorithm-16-cores-output run.py --cores=16 --algorithm=2
+
+Initializing array and reseting result.
+Done initializing.
+Chunking the array for summation.
+Beginning summation ...
+Finished simulation.
+Global frequency set at 1000000000000 ticks per second
+gem5 Simulator System.  https://www.gem5.org
+gem5 is copyrighted software; use the --copyright option for details.
+
+gem5 version 23.1.0.0
+gem5 compiled Jan  6 2024 23:00:07
+gem5 started Mar 16 2024 21:06:38
+gem5 executing on codespaces-e36d0d, pid 6660
+command line: gem5 --outdir=3-algorithm-16-cores-output run.py --cores=16 --algorithm=3
+
+Initializing array and reseting result.
+Done initializing.
+Removing race condition on result.
+Beginning summation ...
+Finished simulation.
+Global frequency set at 1000000000000 ticks per second
+gem5 Simulator System.  https://www.gem5.org
+gem5 is copyrighted software; use the --copyright option for details.
+
+gem5 version 23.1.0.0
+gem5 compiled Jan  6 2024 23:00:07
+gem5 started Mar 16 2024 21:07:29
+gem5 executing on codespaces-e36d0d, pid 7122
+command line: gem5 --outdir=4-algorithm-16-cores-output run.py --cores=16 --algorithm=4
+
+Initializing array and reseting result.
+Done initializing.
+Removing race condition on result and using chunking.
+Beginning summation ...
+Finished simulation.
+Global frequency set at 1000000000000 ticks per second
+gem5 Simulator System.  https://www.gem5.org
+gem5 is copyrighted software; use the --copyright option for details.
+
+gem5 version 23.1.0.0
+gem5 compiled Jan  6 2024 23:00:07
+gem5 started Mar 16 2024 21:08:19
+gem5 executing on codespaces-e36d0d, pid 7583
+command line: gem5 --outdir=5-algorithm-16-cores-output run.py --cores=16 --algorithm=5
+
+Initializing array and reseting result.
+Done initializing.
+Removing race condition on cache blocks holding result array.
+Beginning summation ...
+Finished simulation.
+Global frequency set at 1000000000000 ticks per second
+gem5 Simulator System.  https://www.gem5.org
+gem5 is copyrighted software; use the --copyright option for details.
+
+gem5 version 23.1.0.0
+gem5 compiled Jan  6 2024 23:00:07
+gem5 started Mar 16 2024 21:09:03
+gem5 executing on codespaces-e36d0d, pid 7982
+command line: gem5 --outdir=6-algorithm-16-cores-output run.py --cores=16 --algorithm=6
+
+Initializing array and reseting result.
+Done initializing.
+Removing race condition on cache blocks and using chunking to sum up the array.
+Beginning summation ...
+Finished simulation.
